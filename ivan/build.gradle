@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        applicationId "ru.gkomega.vasl"
+        applicationId "ru.gkomega.ivan"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
