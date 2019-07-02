@@ -1,1 +1,1 @@
-include ':app', ':vika', ':vlad', ':andr'
+include ':vika', ':vlad', ':andr', ':vasl'
