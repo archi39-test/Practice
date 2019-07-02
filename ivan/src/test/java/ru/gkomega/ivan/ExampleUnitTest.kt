@@ -1,4 +1,4 @@
-package ru.gkomega.vasl
+package ru.gkomega.ivan
 
 import org.junit.Test
 
